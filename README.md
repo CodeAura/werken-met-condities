@@ -1,2 +1,2 @@
 # werken-met-condities
-#Hieronder alle files!
+## Hieronder staan alle files die je nodig hebt
